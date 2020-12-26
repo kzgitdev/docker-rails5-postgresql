@@ -17,10 +17,10 @@ jwilder/nginx-proxyコンテナでnginx-proxyが稼働済み
 ## .envファイルの編集方法
 .env ファイルの変数を編集して使います
 
-USERNAME: ユーザー名を指定する
-UID: user idを指定する
-RUBY_TAG: rubyのバージョンを指定する
-POSTGRE_TAG:  PostgreSQLのバージョンを指定する
+- USERNAME: ユーザー名を指定する
+- UID: user idを指定する
+- RUBY_TAG: rubyのバージョンを指定する
+- POSTGRE_TAG:  PostgreSQLのバージョンを指定する
 
 
 ## ディレクトリ構造
