@@ -66,7 +66,7 @@ sudo chown -R $USER:$USER .
 ```
 
 5. Gemfileが変更されているためイメージを再構築する
-````
+```
 docker-compose build
 ```
 
