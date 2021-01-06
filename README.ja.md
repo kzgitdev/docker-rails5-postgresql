@@ -72,7 +72,7 @@ docker-compose build
 
 6. database.ymlを編集する
 ```
-vi /home/$USERNAME/docker/example.com/raisl6/config/database.yml
+vi /home/$USERNAME/docker/example.com/rails5/config/database.yml
 default: &default
   adapter: postgresql
   encoding: unicode
