@@ -25,7 +25,7 @@ jwilder/nginx-proxyコンテナでnginx-proxyが稼働済み
 
 ## ディレクトリ構造
 ```
-/cert (/home/$USERNAME/certs)
+/certs (/home/$USERNAME/certs)
 +-- /letsencrypt
 |       accounts/
 |       archive/
